@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/Users/Aryant/Documents/PEMROG WEB/22.11.4686/RESPONSI/pw_responsi/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/Users/Aryant/Documents/PEMROG WEB/22.11.4686/RESPONSI/pw_responsi/node_modules/nuxt/dist/app/entry.js"
+  }
+}

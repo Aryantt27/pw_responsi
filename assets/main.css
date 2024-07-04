@@ -3,4 +3,20 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+    
 }
+
+h6{
+    color: #9ba8ab;
+}
+
+h4{
+    color:#9ba8ab;
+}
+
+.btn .btn-primary{
+    color:#9ba8ab;
+}
+
+
